@@ -1,0 +1,7 @@
+<% provide(:title, t("static_pages.help.title")) %>
+<h1><%= t("static_pages.help.title") %></h1>
+<p>
+  <%= sanitize t("static_pages.help.content", rails_tut: link_to(t("rails_tut"), "https://www.railstutorial.org/help"),
+    book: link_to(t("rails_book"), "https://www.railstutorial.org/book"))
+  %>
+</p>

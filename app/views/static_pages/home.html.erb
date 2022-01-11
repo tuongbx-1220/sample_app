@@ -1,0 +1,14 @@
+<% provide(:title, t("static_pages.home.title")) %>
+<h1><%= t("static_pages.home.title") %></h1>
+<p>
+  <%= sanitize t("static_pages.home.content", link: link_to(t("rails_tut"), )) %>
+</p>
+<div class="center jumbotron">
+  <p>
+    <%= sanitize t("static_pages.home.content",
+      link: link_to(t("rails_tut"), "https://www.railstutorial.org/tutorial"))
+    %>
+  </p>
+  <%= link_to t("sign_up_now"), "#", class: "btn btn-lg btn-primary" %>
+</div>
+<%= link_to image_tag("/images/rails.svg", alt: t("logo"), width: "200px"), "https://rubyonrails.org/" %>

@@ -42,3 +42,7 @@ yarn-debug.log*
 
 .framgia-ci-reports/
 .framgia-ci-result.temp.yml
+
+.vscode/*
+
+test/*

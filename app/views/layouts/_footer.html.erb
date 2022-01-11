@@ -1,0 +1,15 @@
+<footer class="footer">
+  <small>
+    <%= sanitize t("layout.footer.content",
+      rails_tut: link_to(t("rails_tut"), "https://www.railstutorial.org/tutorial"),
+      michael_hartl: link_to(t("michael_hartl"), "https://www.railstutorial.org/tutorial"))
+    %>
+  </small>
+  <nav>
+    <ul>
+    <li><%= link_to t("static_pages.about.title"), static_pages_about_path %></li>
+    <li><%= link_to t("static_pages.contact.title"), static_pages_contact_path %></li>
+    <li><%= link_to t("news"), "https://news.railstutorial.org/" %></li>
+    </ul>
+  </nav>
+</footer>
