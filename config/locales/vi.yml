@@ -1,5 +1,27 @@
 vi:
-  hello: "Xin chao"
-  en: "EN"
-  vi: "VI"
-  
+  app:
+    en: "EN"
+    vi: "VI"
+    title: "Phần mềm ví dụ Ruby on Rails"
+  rails: "Ruby on Rails"
+  rails_tut: "Hướng dẫn Ruby on Rails"
+  rails_book: "Sách dạy Ruby on Rails"
+  rails_contact: "Trang liên lạc Ruby on Rails"
+  static_page:
+    home:
+      title: "Trang chủ"
+      content: "Đây là trang chủ của phần mềm ví dụ "
+    about:
+      title: "Về chúng tôi"
+      content: "Day la trang ve chung toi"
+    help:
+      title: "Trợ giúp"
+      content: "Day la trang giup do"
+    contact:
+      title: "Lien lac"
+      content: "Day la trang lien lac"
+  layout:
+    footer:
+      content: "The %{rails_tut} by %{michael_hartl}"
+  login: "Dang Nhap"
+  sample_app: "Ung dung mau"

@@ -1,5 +1,29 @@
 en:
-  hello: "Hello world"
-  en: "EN"
-  vi: "VI"
-  
+  app:
+    en: "EN"
+    vi: "VI"
+    title: "Ruby on Rails Tutorial Sample App"
+  rails: "Ruby on Rails"
+  rails_tut: "Ruby on Rails tutorial"
+  rails_book: "Ruby on Rails book"
+  rails_contact: "Ruby on Rails contact page"
+  static_pages:
+    home:
+      title: "Home"
+      content: "This is the home page for the %{link} sample application"
+    about:
+      title: "About"
+      content: "This is page ABout"
+    help:
+      title: "Help"
+      content: "Get help on the Ruby on Rails Tutorial at the %{rails_tut}.
+                To get help on this sample app, see the %{book}."
+    contact:
+      title: "Contact"
+      content: "This is page Contact"
+  layout:
+    footer:
+      content: "The %{rails_tut} by %{michael_hartl}"
+  login: "Login"
+  sample_app: "Sample App"
+  logo: "Rails logo"
