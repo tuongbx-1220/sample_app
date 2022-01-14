@@ -27,3 +27,10 @@ en:
   login: "Login"
   sample_app: "Sample App"
   logo: "Rails logo"
+  sign_up: "Sign up"
+  welcome: "Welcome to the Sample App!"
+  error:
+    error_valid: "The form contains %{error}"
+    error: "error"
+    user:
+      not_found: "Not found user"
