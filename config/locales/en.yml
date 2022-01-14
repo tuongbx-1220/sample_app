@@ -36,6 +36,7 @@ en:
   profile: "Profile"
   settings: "Settings"
   log_out: "Log out"
+  remember_password: "Remember me on this computer"
   error:
     error_valid: "The form contains %{error}"
     error: "error"
