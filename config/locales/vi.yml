@@ -25,3 +25,4 @@ vi:
       content: "The %{rails_tut} by %{michael_hartl}"
   login: "Dang Nhap"
   sample_app: "Ung dung mau"
+  remember_password: "Luu lai mat khau"
