@@ -2,3 +2,6 @@ email_regex: !ruby/regexp /\A[\w+\-.]+@[a-z\d\-]+(\.[a-z\d\-]+)*\.[a-z]+\z/i
 length_digit_6: 6
 length_digit_255: 255
 gravatar_url: "https://secure.gravatar.com/avatar/#"
+item_per_page: 10
+avatar_size: 80
+gravatar_email: "http://gravatar.com/emails"
