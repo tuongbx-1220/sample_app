@@ -5,3 +5,4 @@ gravatar_url: "https://secure.gravatar.com/avatar/#"
 item_per_page: 10
 avatar_size: 80
 gravatar_email: "http://gravatar.com/emails"
+expired_password_time: 2
