@@ -51,3 +51,18 @@ vi:
   activate: "Kich hoat"
   click_link_to_activate: "Chao mung ban den voi chung toi !
                            Nhap vao lien ket duoi de kich hoat tai khoan."
+  forgot_password: "Quen mat khau"
+  submit: "Gui di"
+  email_not_found: "Khong tim thay dia chi email"
+  email_sent_reset_password: "Email duoc gui kem theo huong dan cai dat mat khau"
+  password_reset: "Dat lai mat khau"
+  update_password: "Cap nhat mat khau"
+  reset_expired: "Dat lai mat khau da het han."
+  cannot_blank: "Khong duoc bo trong"
+  password_reseted: "Mat khau da doi thanh cong"
+  reset_failed: "Doi mat khau that bai"
+  confirmation: "Xac nhan"
+  click_below_to_reset: "De dat lai mat khau vui long nhap vao lien ket"
+  expire_time: "Lien ket se het han trong two hour."
+  ignore_if_stay: "Neu ban khong yeu cau dat lai mat khau, vui long bo qua email
+                  nay va mat khau ban van nhu cu"
