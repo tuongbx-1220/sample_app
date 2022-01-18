@@ -42,3 +42,12 @@ vi:
   email: "Dia chi dien tu"
   password: "Mat khau"
   password_confirmation: "Xac thuc mat khau"
+  account_activation: "Kich hoat tai khoan"
+  check_mail: "Hay kiem tra mail cua ban de kich hoat tai khoan."
+  activated: "Da kich hoat tai khoan"
+  activated_failed: "Kich hoat tai khoan that bai"
+  acount_not_activated: "Tai khoan cua ban chua duoc kich hoat."
+  hi: "Chao"
+  activate: "Kich hoat"
+  click_link_to_activate: "Chao mung ban den voi chung toi !
+                           Nhap vao lien ket duoi de kich hoat tai khoan."
