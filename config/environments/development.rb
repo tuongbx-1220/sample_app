@@ -90,5 +90,6 @@ Rails.application.configure do
   # config.action_cable.disable_request_forgery_protection = true
 
   # Allow connections to local server.
+  config.middleware.use I18n::JS::Middleware
   config.hosts.clear
 end
