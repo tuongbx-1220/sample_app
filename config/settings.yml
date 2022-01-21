@@ -11,3 +11,4 @@ rails_tut_org: "https://www.railstutorial.org/tutorial"
 image_type: ["image/jpeg", "image/gif", "image/png"]
 size_5: 5
 size_500_image: [500, 500]
+size_30: 30
